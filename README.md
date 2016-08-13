@@ -1,5 +1,5 @@
 # simplifieed-html
-Basic (nearly done) responsive HTML5 template. See [simplifieed-wp](https://github.com/theel0ja/simplifieed-wp) for WordPress.
+Basic (nearly done) responsive HTML5 template.
 
 # Where to download it? Or where's the demo? And what about license?
 - [Download](https://github.com/theel0ja/simplifieed-html/archive/gh-pages.zip)
