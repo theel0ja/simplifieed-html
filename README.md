@@ -7,5 +7,5 @@ Basic (nearly done) responsive HTML5 template.
 - [License](https://github.com/theel0ja/simplifieed-html/blob/gh-pages/LICENSE.md)
 
 # To-Do List
-- Fully responsive (mobile is working, but small fixes needed)
-- Close & Open (like [Bootstrap](https://getbootstrap.com/) navigation)
+- [ ] Fully responsive (mobile is working, but small fixes needed)
+- [ ] Close & Open (like [Bootstrap](https://getbootstrap.com/) navigation)
